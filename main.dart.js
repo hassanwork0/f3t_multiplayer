@@ -74604,7 +74604,7 @@ A.qc.prototype={
 M(a){var s,r,q,p,o=null,n=new A.K_(B.wZ,$.an()),m=A.a_(a).ax,l=m.y2
 m=l==null?m.c:l
 m=A.amI(m,A.dq("Welcome!",o,o,o,o,o,o))
-l=A.dq("Welcome to \n XO Multiplayer",o,o,o,A.es(o,o,B.k,o,o,o,o,o,o,o,o,80,o,o,B.bH,o,o,!0,o,o,o,o,o,o,o,o),B.ej,o)
+l=A.dq("Welcome to \n XO Multiplayer",o,o,o,A.es(o,o,B.k,o,o,o,o,o,o,o,o,40,o,o,B.bH,o,o,!0,o,o,o,o,o,o,o,o),B.ej,o)
 s=A.bL(a,o,t.w).w
 r=A.es(o,o,B.ds,o,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o)
 r=A.aot(o,new A.fV(4,A.pl(12),B.q),o,new A.aJ(16,14,16,14),o,o,o,o,!0,o,o,o,o,o,o,B.Ay,!0,o,o,o,o,new A.fV(4,A.pl(12),new A.b1(B.bK,2,B.w,-1)),o,o,o,o,o,o,o,r,"Enter your Game code...",o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o,o,o,o,o,o)
